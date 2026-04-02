@@ -1,0 +1,2 @@
+kconfiglib
+cmake==3.28.1
